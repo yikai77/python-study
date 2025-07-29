@@ -1,0 +1,20 @@
+# 忽略 Python 编译文件
+*.pyc
+*.pyo
+*.pyd
+
+# 忽略缓存目录
+__pycache__/
+
+# 忽略 PyCharm 配置文件夹
+.idea/
+
+# 忽略虚拟环境文件夹（常见命名）
+.venv/
+venv/
+.env/
+env/
+
+# 忽略其他常见临时文件
+*.log
+.DS_Store
